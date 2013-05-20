@@ -60,7 +60,7 @@ class ConcretFactory1 extends AbstractFactory{
 }
 
 /**
- * The 'ConcreteFactory1' class
+ * The 'ConcreteFactory2' class
  */
 class ConcretFactory2 extends AbstractFactory{
 
