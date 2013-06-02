@@ -2,6 +2,11 @@
 
 Reprend les exemples de http://www.dofactory.com/Patterns/Patterns.aspx et les traduits en Java
 
-##Structural Patterns
+##Creational Patterns
+Abstract Factory :
 
-Factory :
+##Structural Patterns
+Facade :
+
+##Behavioral Patterns
+
